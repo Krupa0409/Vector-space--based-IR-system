@@ -1,4 +1,5 @@
 # Vector-space--based-IR-system
+The objective of this assignment is to build a vector space-based information retrieval system.
 # Instructions for execution
 ## Dependencies
 
@@ -53,11 +54,11 @@ command line code
 python test_queries.py 
 ```
 ## Sample queries:
-dutch-born environmentalist
-s maruti rao
-civil rights violated
-American city to individually restrict cannabis
-Ceo of brandyourself
+1. dutch-born environmentalist
+2. s maruti rao
+3. civil rights violated
+4. American city to individually restrict cannabis
+5. Ceo of brandyourself
 
 ## Other instrcutions:
 	1)First make sure that all the 5 files mentioned above are present in the same folder as      of test_queries.py (I have already pasted the files required so 	that you can run the second part without even running the first part. However if you do run the first part make sure that you delete these files because 	then the filenames would clash)
